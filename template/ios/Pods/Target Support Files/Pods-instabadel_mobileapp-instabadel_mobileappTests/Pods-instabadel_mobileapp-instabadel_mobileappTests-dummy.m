@@ -1,5 +1,0 @@
-#import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_instabadel_mobileapp_instabadel_mobileappTests : NSObject
-@end
-@implementation PodsDummy_Pods_instabadel_mobileapp_instabadel_mobileappTests
-@end

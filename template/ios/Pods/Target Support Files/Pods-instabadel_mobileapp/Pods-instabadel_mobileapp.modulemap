@@ -1,6 +1,0 @@
-module Pods_instabadel_mobileapp {
-  umbrella header "Pods-instabadel_mobileapp-umbrella.h"
-
-  export *
-  module * { export * }
-}
