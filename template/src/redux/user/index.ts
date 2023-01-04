@@ -1,6 +1,5 @@
 import {EntityKeys} from '../schema';
 import {createSlice, isAnyOf} from '@reduxjs/toolkit';
-import adapter from './adapter';
 import thunks from './thunks';
 import {RootState} from '../store';
 
@@ -18,7 +17,6 @@ const slice = createSlice({
 const User = {
   thunks,
   slice,
-  adapter,
 };
 
 export const selectCurrentUser = (state: RootState) => state.users.currentUser;
