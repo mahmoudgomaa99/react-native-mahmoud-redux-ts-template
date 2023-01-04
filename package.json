@@ -1,8 +1,22 @@
 {
-  "name": "react-native-oprojects-redux-ts-template",
+  "name": "@mahmoudgomaa/react-native-oprojects-redux-ts-template",
   "version": "0.0.1",
   "description": "React Native Template",
-  "repository": "git@github.com:mahmoudgomaa99/react-native-oprojects-redux-ts-template.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mahmoudgomaa99/react-native-oprojects-redux-ts-template.git"
+  },
   "author": "Mahmoud Gomaa <mahmoud.gomaa14@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahmoudgomaa99/react-native-oprojects-redux-ts-template/issues"
+  },
+  "homepage": "https://github.com/mahmoudgomaa99/react-native-oprojects-redux-ts-template#readme",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template"
+  ]
 }
