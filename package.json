@@ -17,6 +17,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "template"
+    "template","react native","typescript","redux","redux toolkit","picker","date picker","formik","svg","modal handler","firebase","fonts","colors","date formatters"
   ]
 }
