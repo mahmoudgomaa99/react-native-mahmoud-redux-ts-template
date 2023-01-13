@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "806911739298",
+    "project_id": "template-ffae7",
+    "storage_bucket": "template-ffae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806911739298:android:8fc9a1641f871d2d989efb",
+        "android_client_info": {
+          "package_name": "com.instabadel_mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806911739298-h1p7tahd9se3c8n3t7tgpqjhvvm4tsbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8YM1zfL2nuh2QP0kPtiGSJSquojvifYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806911739298-h1p7tahd9se3c8n3t7tgpqjhvvm4tsbn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806911739298-jt1dcd8uke0l3s5aea39qkspdv2ou91v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.oprojects.template"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

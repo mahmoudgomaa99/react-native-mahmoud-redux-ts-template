@@ -1,13 +1,13 @@
 import SvgComponent from './logo';
 import logout from './logout';
-import clipboard from './clipboard';
-import people from './people';
+import SmallRightArrow from "./SmallRightArrow";
+import Oprojects from "./Oprojects";
 
 const svgs = {
   default: SvgComponent,
   logout: logout,
-  clipboard: clipboard,
-  people: people,
+  small_right_arrow: SmallRightArrow,
+  oprojects: Oprojects,
 };
 
 export default svgs;

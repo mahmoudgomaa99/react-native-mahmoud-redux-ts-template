@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-console.log("Powered by O-projects");
+console.log(
+  `----------------------------------------------------\n\n\nPowered by O-projects\n\n\n----------------------------------------------------`
+);
